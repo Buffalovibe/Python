@@ -20,7 +20,7 @@ from aiogram.enums import ParseMode
 import aiosqlite
 
 # ===== КОНФИГУРАЦИЯ =====
-BOT_TOKEN = "8712539909:AAFZFeVV_BwaJY14CfeW65Nd7rz5D1JFr6M"
+BOT_TOKEN = "xxxxxxx"
 # Список ID преподавателей (3 админа)
 TEACHER_IDS = [8007732168, 8191523909, 1094295756]
 DATABASE = "homework.db"
